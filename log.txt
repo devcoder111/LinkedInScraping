@@ -1,0 +1,7 @@
+﻿2019-09-04 14:56:41 [Info:] Logging in Bot #1 - greggiccm7@mail.ru
+﻿2019-09-04 14:59:47 [Error:] Error: socket hang up
+﻿2019-09-04 16:39:20 [Info:] Logging in Bot #2 - berklyaxqpk3@mail.ru
+﻿2019-09-04 16:39:28 [Info:] Logging in Bot #3 - pearce1ypcw@mail.ru
+﻿2019-09-04 16:39:30 [Info:] Logging in Bot #4 - townu0te5vx@mail.ru
+﻿2019-09-04 16:39:32 [Info:] Logging in Bot #5 - percyzni0p8m@mail.ru
+﻿2019-09-04 16:39:34 [Info:] All Done!

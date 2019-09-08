@@ -1,0 +1,25 @@
+{
+  "name": "joel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedin_setup_new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "chromedriver": "^2.43.0",
+    "debug": "^4.1.0",
+    "dotenv": "^6.1.0",
+    "image-size": "^0.6.3",
+    "image-to-base64": "^2.0.1",
+    "moment": "^2.22.2",
+    "needle": "^2.2.4",
+    "random-fake-useragent": "^0.1.0",
+    "request": "^2.88.0",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "tress": "^1.1.4"
+  }
+}
